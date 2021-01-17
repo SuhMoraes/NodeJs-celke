@@ -95,4 +95,9 @@
   FLUSH PRIVILEGES;
 </p>
  
- <h3>✅ Aula 7 -  Como inserir com Node no banco de dados</h3>
+ <h3>✅ Aula 7 -  Como inserir dados com Node no banco de dados</h3>
+ <h3>✅ Aula 8 -  Como cadastrar com Node.js no banco de dados</h3>
+ <h3>✅ Aula 9 -  Como editar registro no banco de dados MySQL com Node</h3>  
+ <h3>✅ Aula 10 -  Como instalar e usar o Sequelize no Node.js</h3>
+ <h3>✅ Aula 11 - Como instalar o Handlebars no Node e criar o layout padrão para o projeto  </h3>
+<h3>✅ Aula 12 - Como criar o formulário com Node e salvar no banco de dados </h3>
